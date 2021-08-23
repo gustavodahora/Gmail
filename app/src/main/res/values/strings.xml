@@ -11,4 +11,8 @@
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
     <string name="create_icon">create icon</string>
+    <string name="search">Pesquisar no e-mail</string>
+    <string name="person_name">Gustavo da Hora</string>
+    <string name="principal">General</string>
+    <string name="general">Principal</string>
 </resources>
