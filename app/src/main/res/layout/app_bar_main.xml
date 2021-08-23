@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/gray_dark"
     tools:context=".MainActivity">
 
     <com.google.android.material.appbar.AppBarLayout
@@ -22,6 +23,11 @@
         android:layout_gravity="bottom|end"
         android:layout_marginEnd="@dimen/fab_margin"
         android:layout_marginBottom="16dp"
-        app:srcCompat="@android:drawable/ic_dialog_email" />
+        app:backgroundTint="@color/gray"
+        app:borderWidth="0dp"
+        app:srcCompat="@drawable/ic_baseline_create_24"
+        android:contentDescription="@string/create_icon"
+        android:tint="@color/red"
+        />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
