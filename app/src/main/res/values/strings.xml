@@ -20,4 +20,7 @@
     <string name="promotion">Promoções</string>
     <string name="social">Social</string>
     <string name="all">Todas as Cx. entrada</string>
+    <string name="menu">Menu</string>
+    <string name="email">Email</string>
+    <string name="camera_video">camera video</string>
 </resources>

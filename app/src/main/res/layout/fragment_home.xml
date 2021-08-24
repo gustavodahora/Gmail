@@ -28,7 +28,8 @@
             android:src="@drawable/ic_baseline_menu_24"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent" />
+            app:layout_constraintTop_toTopOf="parent"
+            android:contentDescription="@string/menu" />
 
         <EditText
             android:id="@+id/editText"
@@ -37,12 +38,14 @@
             android:layout_marginStart="8dp"
             android:background="@null"
             android:hint="@string/search"
+            android:inputType="none"
             android:textColor="@color/white"
             android:textColorHint="@color/gray_light"
             android:textSize="16sp"
             app:layout_constraintBottom_toBottomOf="@+id/imageView2"
             app:layout_constraintStart_toEndOf="@+id/imageView2"
-            app:layout_constraintTop_toTopOf="@+id/imageView2" />
+            app:layout_constraintTop_toTopOf="@+id/imageView2"
+            android:importantForAutofill="no" />
 
         <de.hdodenhof.circleimageview.CircleImageView
             android:id="@+id/image_person"
@@ -124,7 +127,7 @@
             android:src="@drawable/ic_baseline_email_24"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toStartOf="@id/bottom_camera_icon"
-            />
+            android:contentDescription="@string/email" />
 
         <ImageView
             android:id="@+id/bottom_camera_icon"
@@ -135,7 +138,7 @@
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toEndOf="@id/bottom_email_icon"
-            />
+            android:contentDescription="@string/camera_video" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
