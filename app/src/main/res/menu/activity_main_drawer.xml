@@ -3,18 +3,29 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:showIn="navigation_view">
 
-    <group android:checkableBehavior="single">
+    <group android:id="@+id/line1"/>
+
+    <group
+        android:id="@+id/principal"
+        android:checkableBehavior="single">
+
         <item
-            android:id="@+id/nav_home"
-            android:icon="@drawable/ic_menu_camera"
-            android:title="@string/menu_home" />
+            android:id="@+id/nav_general"
+            android:icon="@drawable/ic_baseline_inbox_24"
+            android:title="@string/general" />
         <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="@string/menu_gallery" />
+            android:id="@+id/nav_social"
+            android:icon="@drawable/ic_baseline_people_alt_24"
+            android:title="@string/social" />
         <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_slideshow" />
+            android:id="@+id/nav_promotion"
+            android:icon="@drawable/ic_baseline_bookmark_add_24"
+            android:title="@string/promotion" />
+
+        <item android:id="@+id/all_of_bookmarks"
+            android:title="@string/bookmarks"/>
+
     </group>
+
+
 </menu>

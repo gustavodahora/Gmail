@@ -3,9 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/gusta/AndroidStudioProjects/Gmail/app/src/main/res/drawable/ic_baseline_bookmark_add_24.xml" value="0.3828125" />
         <entry key="..\:/Users/gusta/AndroidStudioProjects/Gmail/app/src/main/res/drawable/ic_baseline_create_24.xml" value="0.3828125" />
         <entry key="..\:/Users/gusta/AndroidStudioProjects/Gmail/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/gusta/AndroidStudioProjects/Gmail/app/src/main/res/drawable/ic_baseline_inbox_24.xml" value="0.3828125" />
         <entry key="..\:/Users/gusta/AndroidStudioProjects/Gmail/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/gusta/AndroidStudioProjects/Gmail/app/src/main/res/drawable/ic_baseline_people_alt_24.xml" value="0.3828125" />
         <entry key="..\:/Users/gusta/AndroidStudioProjects/Gmail/app/src/main/res/drawable/ic_menu_camera.xml" value="0.3828125" />
         <entry key="..\:/Users/gusta/AndroidStudioProjects/Gmail/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.3828125" />
         <entry key="..\:/Users/gusta/AndroidStudioProjects/Gmail/app/src/main/res/drawable/ic_outline_videocam_24.xml" value="0.3828125" />
@@ -14,8 +17,12 @@
         <entry key="..\:/Users/gusta/AndroidStudioProjects/Gmail/app/src/main/res/layout/app_bar_main.xml" value="0.5474339035769828" />
         <entry key="..\:/Users/gusta/AndroidStudioProjects/Gmail/app/src/main/res/layout/content_main.xml" value="0.33" />
         <entry key="..\:/Users/gusta/AndroidStudioProjects/Gmail/app/src/main/res/layout/fragment_gallery.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/gusta/AndroidStudioProjects/Gmail/app/src/main/res/layout/fragment_home.xml" value="0.5" />
-        <entry key="..\:/Users/gusta/AndroidStudioProjects/Gmail/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/gusta/AndroidStudioProjects/Gmail/app/src/main/res/layout/fragment_home.xml" value="0.67" />
+        <entry key="..\:/Users/gusta/AndroidStudioProjects/Gmail/app/src/main/res/layout/fragment_slideshow.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/gusta/AndroidStudioProjects/Gmail/app/src/main/res/layout/nav_header_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/gusta/AndroidStudioProjects/Gmail/app/src/main/res/menu/activity_main_drawer.xml" value="0.67" />
+        <entry key="..\:/Users/gusta/AndroidStudioProjects/Gmail/app/src/main/res/menu/main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/gusta/AndroidStudioProjects/Gmail/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3828125" />
       </map>
     </option>
   </component>

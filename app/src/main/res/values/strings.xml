@@ -16,4 +16,7 @@
     <string name="principal">General</string>
     <string name="general">Principal</string>
     <string name="write">Escrever</string>
+    <string name="bookmarks">Todos os Marcadores</string>
+    <string name="promotion">Promoções</string>
+    <string name="social">Social</string>
 </resources>
