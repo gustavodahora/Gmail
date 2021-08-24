@@ -96,7 +96,7 @@
         android:textColor="@color/red"
         android:textSize="14sp"
         android:textStyle=""
-        app:backgroundTint="@color/gray"
+        app:backgroundTint="@color/gray_dark_medium"
         app:borderWidth="0dp"
         app:icon="@drawable/ic_baseline_create_24"
         app:iconTint="@color/red"
